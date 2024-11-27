@@ -6,5 +6,8 @@ Material complementario y recusos para los ejemplos del Proyecto Tecnológico 12
 Video de ejemplo: [Proyecto Mecanizado RoboDK](https://youtu.be/39pAHMdo0q4)
 
 
-## Proyecto Manufactura 
+## Proyecto Manufactura Aditiva
 Video de ejemplo: [Proyecto Manufactura Aditiva RoboDK](https://youtu.be/Ct7R9c86iUQ)
+Modelo 3D empleado: [Hex surface vase (spiral print) ](https://www.thingiverse.com/thing:2906756)
+Hex surface vase (spiral print)
+by DrLex is licensed under the Creative Commons - Attribution license.
