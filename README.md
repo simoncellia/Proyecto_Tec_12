@@ -1,6 +1,6 @@
 # Proyecto_Tec_12
 
-Material complementario y recusos para los ejemplos del Proyecto Tecnológico 12. Incluye algunos recusos empleados en los ejemplos de uso de RoboDK
+Material complementario y recursos para los ejemplos del Proyecto Tecnológico 12. Incluye algunos recursos empleados en los ejemplos de uso de RoboDK
 
 [Cómo usar este repositorio?](https://youtu.be/b_RhPhL7vhw)
 
@@ -16,3 +16,7 @@ Material complementario y recusos para los ejemplos del Proyecto Tecnológico 12
 Hex surface vase (spiral print)
 by DrLex is licensed under the Creative Commons - Attribution license.
 * Estaciones Resueltas, pueden probarse en el [simulador web de RoboDk](https://web.robodk.com/es/web)
+
+## Practica de ubicación y correccion de cero de Herramientas
+* Ejemplo de piezas bien diseñadas para facilitar la ubicación de las herramientas y su TCP
+* Ejemplo de piezas con cero incorrecto y su resolución en el entorno de RoboDK
