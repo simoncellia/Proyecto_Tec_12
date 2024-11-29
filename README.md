@@ -2,6 +2,9 @@
 
 Material complementario y recusos para los ejemplos del Proyecto Tecnológico 12. Incluye algunos recusos empleados en los ejemplos de uso de RoboDK
 
+[Cómo usar este repositorio?](https://youtu.be/b_RhPhL7vhw)
+
+
 ## Proyecto Mecanizado.
 * Video de ejemplo: [Proyecto Mecanizado RoboDK](https://youtu.be/39pAHMdo0q4)
 * Estaciones Resueltas, pueden probarse en el [simulador web de RoboDk](https://web.robodk.com/es/web)
